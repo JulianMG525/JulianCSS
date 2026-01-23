@@ -21,12 +21,16 @@ input{
 
 p{
     text-align: center;
+
 }
 
 
 #highlight{
     color:black;
     background-color: yellow;
+    font-size: 20px;
+    margin: 10px;
+    padding: 0px;
 }
 
 
@@ -36,7 +40,10 @@ p{
 
 
 .content{
-    text-align: left;
+    text-align: right;
+    font-size: 18px;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
@@ -48,6 +55,9 @@ p{
 
 .foot{
     background-color: black;
+    color: bisque;
+    margin: 30px;
+    padding: 0px;
 }
 
 
